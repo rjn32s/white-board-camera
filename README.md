@@ -1,5 +1,5 @@
 # white-board-camera
-## Steup
+## Setup
 ````
 pip install numpy
 pip install opencv-python
