@@ -1,1 +1,1 @@
-# test-white-board-camera
+# white-board-camera
