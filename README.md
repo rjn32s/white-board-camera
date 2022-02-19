@@ -1,7 +1,7 @@
 # white-board-camera
 ## How to setup RaspBerryPi as RTSP Server
-The following command will setup the RaspberrPi in Headless Mode as RTSP server
-
+If you want to use RaspberrPi as RTSP server insted of using server.py file then following command will setup the RaspberrPi in Headless Mode as RTSP server.
+(type these command in Raspberrpi command terminal)
 First setup some Basic library required.
 
 ````
