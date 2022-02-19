@@ -1,4 +1,5 @@
 # white-board-camera
+![alt text](https://github.com/rjn32s/white-board-camera/blob/main/res/Final%20(1).png)
 ## Introduction
 Because online education has become the new normal, technological ad-
 vancements in the field of online education are required. It will become a
@@ -42,4 +43,5 @@ Start video stream
 ````
 v4l2rtspserver -W 640 -H 480 -F 15 -P 8554 /dev/video0
 ````
-
+## 3D Printable Object
+![alt text](https://github.com/rjn32s/white-board-camera/blob/main/res/Case.gif)
