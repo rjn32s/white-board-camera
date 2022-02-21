@@ -1,4 +1,6 @@
 # white-board-camera
+## Supervisor 
+Dr. Srikanth Sugavanam(https://github.com/SrikanthS-IIT)
 ![alt text](https://github.com/rjn32s/white-board-camera/blob/main/res/Final%20(1).png)
 ## Introduction
 Because online education has become the new normal, technological ad-
